@@ -16,6 +16,12 @@ const routes = {
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
 
   // staging
+"docker.5212345.xyz": "https://registry-1.docker.io",
+  "quay.5212345.xyz": "https://quay.io",
+  "gcr.5212345.xyz": "https://k8s.gcr.io",
+  "k8s-gcr.5212345.xyz": "https://k8s.gcr.io",
+  "ghcr.5212345.xyz": "https://ghcr.io",
+  
   "docker-staging.libcuda.so": dockerHub,
 };
 
